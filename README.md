@@ -69,24 +69,11 @@ Self Code is an educational application designed for learning and practicing pro
 
 ---
 
-## Screenshots
-- **Login Screen**: A simple form for user authentication.
-- **Welcome Screen**: Easy navigation to the app's features.
-- **Exercise Screen**: Write and test code for interactive learning.
-- **Tutorials Screen**: Language-specific learning material.
-- **Feedback Screen**: Share your thoughts.
-
----
 
 ## Future Enhancements
 - Add interactive code execution for Java and C++.
 - Introduce more advanced exercises and tutorials.
 - Incorporate user account management and data persistence.
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
